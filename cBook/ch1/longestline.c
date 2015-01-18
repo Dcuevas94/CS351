@@ -19,7 +19,7 @@ int main()
 			copy ( longest, line);
 		}
 	if( max > 0 )
-		printf("%s", longest);
+		printf("%s\n", longest);
 	return 0;
 }
 //getline, read a line into s and return length
