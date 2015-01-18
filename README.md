@@ -1,6 +1,6 @@
 # CS351
 ===========
-Spring 2015
+Spring 2015  
 -Labs  
 -The C book run down  
 -More stuffs  
